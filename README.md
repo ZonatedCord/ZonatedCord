@@ -24,7 +24,7 @@ CS student @ Uninsubria. I build across the stack — web interfaces, embedded s
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [🌿 Smart Plant ESP32](#) | IoT plant monitor with custom PCB, RGB LEDs and mobile app | ESP32, PCB, 3D Print | ✅ Live |
-| [🍽️ QR Menu](#) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
+| [🍽️ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
 | [🏔️ Casetta in Montagna](#) | Mountain cabin site with Airbnb-inspired booking system | React, Bilingual | 🔧 In progress |
 | [🖥️ Portfolio](https://marcobarlera.com) | This portfolio — animated, responsive | React, CSS | ✅ Live |
 
