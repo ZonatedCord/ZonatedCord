@@ -21,12 +21,9 @@ CS student @ Uninsubria. I build across the stack — web interfaces, embedded s
 
 ## 🏛️ The Mythology
 
-My projects live in two mythological universes — intentionally.
+Every project gets a name from mythology. Greek or Norse — whichever fits the nature of the project first, then the web of connections to the others.
 
-**Greek** — tools that face the market: memory, identity, discovery, fame.  
-**Norse** `ᚠ` — maker projects built for myself: personal tools, hardware, firmware.
-
-This isn't aesthetic. It's semantic separation between what I build for others and what I build for myself.
+The names aren't decoration. Each one carries a concept that mirrors what the tool actually does. They also talk to each other: Mimir sits beneath Yggdrasill. Morpheus shapes what Mnemosyne remembers. Klio writes what Morpheus finds.
 
 > *All names orbit a single idea — memory as power.*
 
@@ -34,7 +31,7 @@ This isn't aesthetic. It's semantic separation between what I build for others a
 
 ## ⚡ Main Projects
 
-### 🐍 [Morpheus](https://github.com/ZonatedCord/Morpheus)
+### ⌖ [Morpheus](https://github.com/ZonatedCord/Morpheus)
 *Greek · Μορφεύς — god of dreams, from morphoō: to give form*
 
 B2B tool for finding local businesses with no digital presence. Scans OpenStreetMap, scores with a composite algorithm, maps results interactively, and enriches data via LLM-assisted Facebook lookup. Local businesses are asleep online — Morpheus finds them.
@@ -43,7 +40,7 @@ B2B tool for finding local businesses with no digital presence. Scans OpenStreet
 
 ---
 
-### 🪬 [Mimir](https://github.com/ZonatedCord/Mimir)
+### ◉ [Mimir](https://github.com/ZonatedCord/Mimir)
 *Norse · guardian of the well of knowledge beneath Yggdrasill*
 
 Preflight checker for Claude Code sessions. Estimates token cost and risk before you run expensive tasks. Answers one question before every session: *how much will this cost?* The gatekeeper.
@@ -63,7 +60,7 @@ Local-first personal finance tracker. No cloud, no account, no subscription. Tel
 
 ## 🔌 IoT & Hardware
 
-### 🌿 [Yggdrasill](https://github.com/ZonatedCord/Yggdrasill)
+### ᛉ [Yggdrasill](https://github.com/ZonatedCord/Yggdrasill)
 *Norse · the World Tree connecting the nine realms*
 
 Smart plant monitor built from scratch — custom PCB design, ESP32 firmware, RGB LEDs, 3D-printed enclosure, mobile app. A physical node connecting hardware and software, like the tree that holds the cosmos together.
@@ -79,9 +76,9 @@ Projects under the **Klio** brand — from Κλειώ, Muse of history.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🍽️ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
-| [🏔️ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
-| [🖥️ Mnemosyne](https://marcobarlera.com) | Portfolio — animated, responsive | React, CSS | ✅ Live |
+| [◫ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
+| [⌂ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
+| [◈ Mnemosyne](https://marcobarlera.com) | Portfolio — animated, responsive | React, CSS | ✅ Live |
 
 ---
 
