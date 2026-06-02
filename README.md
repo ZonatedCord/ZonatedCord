@@ -19,14 +19,69 @@ CS student @ Uninsubria. I build across the stack — web interfaces, embedded s
 
 ---
 
-**Featured Projects**
+## 🏛️ The Mythology
+
+My projects live in two mythological universes — intentionally.
+
+**Greek** — tools that face the market: memory, identity, discovery, fame.  
+**Norse** `ᚠ` — maker projects built for myself: personal tools, hardware, firmware.
+
+This isn't aesthetic. It's semantic separation between what I build for others and what I build for myself.
+
+> *All names orbit a single idea — memory as power.*
+
+---
+
+## ⚡ Main Projects
+
+### 🐍 [Morpheus](https://github.com/ZonatedCord/Morpheus)
+*Greek · Μορφεύς — god of dreams, from morphoō: to give form*
+
+B2B tool for finding local businesses with no digital presence. Scans OpenStreetMap, scores with a composite algorithm, maps results interactively, and enriches data via LLM-assisted Facebook lookup. Local businesses are asleep online — Morpheus finds them.
+
+`Python` `React` `SQLite` `Leaflet` `LLM`
+
+---
+
+### 🪬 [Mimir](https://github.com/ZonatedCord/Mimir)
+*Norse · guardian of the well of knowledge beneath Yggdrasill*
+
+Preflight checker for Claude Code sessions. Estimates token cost and risk before you run expensive tasks. Answers one question before every session: *how much will this cost?* The gatekeeper.
+
+`JavaScript`
+
+---
+
+### ᚠ [Fehu](https://github.com/ZonatedCord/Fehu)
+*Norse · first rune of the Futhark — cattle, mobile wealth*
+
+Local-first personal finance tracker. No cloud, no account, no subscription. Telegram integration, planned LLM-powered receipt OCR via local vision model.
+
+`Svelte`
+
+---
+
+## 🔌 IoT & Hardware
+
+### 🌿 [Yggdrasill](https://github.com/ZonatedCord/Yggdrasill)
+*Norse · the World Tree connecting the nine realms*
+
+Smart plant monitor built from scratch — custom PCB design, ESP32 firmware, RGB LEDs, 3D-printed enclosure, mobile app. A physical node connecting hardware and software, like the tree that holds the cosmos together.
+
+`ESP32` `C++` `Flutter` `KiCad` `3D Print`
+
+---
+
+## 🌐 Web Design
+
+Projects under the **Klio** brand — from Κλειώ, Muse of history.  
+*Local businesses without a site don't exist on the web. Klio writes them in.*
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🌿 Smart Plant ESP32](#) | IoT plant monitor with custom PCB, RGB LEDs and mobile app | ESP32, PCB, 3D Print | ✅ Live |
 | [🍽️ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
-| [🏔️ Casetta in Montagna](#) | Mountain cabin site with Airbnb-inspired booking system | React, Bilingual | 🔧 In progress |
-| [🖥️ Portfolio](https://marcobarlera.com) | This portfolio — animated, responsive | React, CSS | ✅ Live |
+| [🏔️ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
+| [🖥️ Mnemosyne](https://marcobarlera.com) | Portfolio — animated, responsive | React, CSS | ✅ Live |
 
 ---
 
