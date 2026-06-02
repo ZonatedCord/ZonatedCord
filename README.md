@@ -76,8 +76,8 @@ Projects under the **Klio** brand — from Κλειώ, Muse of history.
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [◫ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
-| [⌂ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
+| [🍽️ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
+| [🏔️ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
 | [🖥️ Mnemosyne](https://marcobarlera.com) | Portfolio — animated, responsive | React, CSS | ✅ Live |
 
 ---
