@@ -92,7 +92,7 @@ Coursework and team projects — outside the mythology, no personal branding.
 
 | Project | Description | Stack |
 |---|---|---|
-| [TheKnife](https://github.com/FloshDev/TheKnife-B) | Client-server system for restaurant search & reviews (inspired by TheFork). Course: *Laboratorio Interdisciplinare B*, team of 5 | Java |
+| [TheKnife](https://github.com/FloshDev/TheKnife-B) | Client-server system for restaurant search & reviews (inspired by TheFork). Course: *Laboratorio Interdisciplinare B*, team of 4 | Java |
 | [Stress Detection — Empatica E4](https://github.com/ZonatedCord/stress-detection-empatica-e4) | Stress detection from physiological signals recorded with the Empatica E4 wristband | Python |
 
 ---
