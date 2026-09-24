@@ -66,15 +66,15 @@ Local-first personal finance tracker. No cloud, no account, no subscription. Tel
 ### ᛉ [Yggdrasill](https://github.com/ZonatedCord/Yggdrasill)
 *Norse · the World Tree connecting the nine realms*
 
-Smart plant monitor built from scratch — custom PCB design, ESP32 firmware, RGB LEDs, 3D-printed enclosure, mobile app. A physical node connecting hardware and software, like the tree that holds the cosmos together.
+Smart plant monitor built from scratch — custom PCB design, ESP32 firmware, RGB LEDs, 3D-printed enclosure, and a native iOS app ([WLED-iOS](https://github.com/ZonatedCord/WLED-iOS) fork, restyled with Apple's Liquid Glass). A physical node connecting hardware and software, like the tree that holds the cosmos together.
 
-`ESP32` `C++` `Flutter` `KiCad` `3D Print`
+`ESP32` `C++` `Swift` `KiCad` `3D Print`
 
 ---
 
 ## 🌐 Web Design
 
-### 🏛️ [Klio](https://klio.marcobarlera.com)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/klio-logo-dark.svg"><img src="assets/klio-logo-light.svg" height="20" alt=""></picture> [Klio](https://klio.marcobarlera.com)
 *Greek · Κλειώ — Muse of history*
 
 Brand for bringing local businesses onto the web. Logo: a K with an Ionic column shaft, volutes as papyrus scrolls. Local businesses without a site don't exist on the web — Klio writes them in.
