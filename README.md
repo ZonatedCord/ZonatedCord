@@ -74,7 +74,7 @@ Smart plant monitor built from scratch — custom PCB design, ESP32 firmware, RG
 
 ## 🌐 Web Design
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/klio-logo-dark.svg"><img src="assets/klio-logo-light.svg" height="28" alt=""></picture> [Klio](https://klio.marcobarlera.com)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/klio-icon-dark.svg"><img src="assets/klio-icon-light.svg" height="34" alt=""></picture> [Klio](https://klio.marcobarlera.com)
 *Greek · Κλειώ — Muse of history*
 
 Brand for bringing local businesses onto the web. Logo: a K with an Ionic column shaft, volutes as papyrus scrolls. Local businesses without a site don't exist on the web — Klio writes them in.
