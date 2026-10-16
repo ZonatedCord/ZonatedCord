@@ -88,6 +88,7 @@ Projects under the **Klio** brand:
 | [🍕 Santa Teresa](https://santateresa.marcobarlera.com) | Site for a restaurant-pizzeria in Vedano Olona | React | ✅ Live |
 | [🍽️ QR Menu](https://menu.marcobarlera.com) | Restaurant menu managed by the owner via QR code | React, Supabase | ✅ Live |
 | [🏔️ Casetta in Montagna](https://casettamera.com) | Mountain cabin site with Airbnb-inspired booking | React, Bilingual | ✅ Live |
+| [🏭 Lombarda Compressori](https://www.lombardacompressori.it) | Bilingual (IT/EN) site for a Ceccato, Frigofluid & Aircom dealer of compressors and industrial refrigeration in Malnate (VA) | Vite, Bilingual | ✅ Live |
 | [🖥️ Mnemosyne](https://marcobarlera.com) | Portfolio — animated, responsive | React, CSS | ✅ Live |
 
 ---
