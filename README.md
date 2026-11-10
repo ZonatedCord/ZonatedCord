@@ -61,6 +61,15 @@ Local-first personal finance tracker. No cloud, no account, no subscription. Tel
 
 ---
 
+### 渡 [Watari Boot](https://github.com/ZonatedCord/WatariBoot)
+*Japanese · 渡 (watari) — to cross over, from one shore to the other*
+
+Open research project to dual-boot native Windows 11 ARM64 on Apple Silicon (M1), with no macOS underneath. A minimal EL2 layer (virtual GICv3, PSCI, timer FIQ, IPIs) sits below a custom EDK2 + ACPI stack. Runs in QEMU today — not working on real hardware yet.
+
+`C` `ARM64` `EDK2` `QEMU` `Python`
+
+---
+
 ## 🔌 IoT & Hardware
 
 ### ᛉ [Yggdrasill](https://github.com/ZonatedCord/Yggdrasill)
